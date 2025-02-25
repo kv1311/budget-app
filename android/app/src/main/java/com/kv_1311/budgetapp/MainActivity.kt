@@ -1,4 +1,4 @@
-package com.budgetapp
+package com.kv_1311.budgetapp
 
 import android.os.Build
 import android.os.Bundle

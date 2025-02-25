@@ -1,4 +1,4 @@
-package com.budgetapp
+package com.kv_1311.budgetapp
 
 import android.app.Application
 import android.content.res.Configuration

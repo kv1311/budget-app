@@ -2,6 +2,24 @@
   "expo": {
     "name": "budget-app",
     "slug": "budget-app",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "backgroundColor": "#000000",
+    "androidNavigationBar": {
+      "backgroundColor": "#000000"
+    },
+    "splash": {
+      "backgroundColor": "#000000"
+    },
+    "android": {
+      "package": "com.kv_1311.budgetapp"
+    },
+    "ios": {
+      "backgroundColor": "#000000"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "f8fd7292-b919-44b0-9c89-07892c412d93"
+      }
+    }
   }
 }
